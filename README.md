@@ -20,9 +20,9 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
  3. Restart the server
 
 -  <h3>Commands:</h3>
-1. /abilitys npc `Use this command to spawn the NPC from AbilityItems`)
-2. /abilitys giveall`Use this command to get all AbilityItems.)
-3. /partneritems `Use this command to open a menu so you can see all available AbilityItems.`)
+1. /abilitys npc (`Use this command to spawn the NPC from AbilityItems`)
+2. /abilitys giveall {`Use this command to get all AbilityItems.`)
+3. /partneritems {`Use this command to open a menu so you can see all available AbilityItems.`)
 
 # Features
 - Main Features
