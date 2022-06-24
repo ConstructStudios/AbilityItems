@@ -21,8 +21,8 @@ Welcome to the AbilityItems Plugin Page. This plugin is about ability items with
 
 -  <h3>Commands:</h3>
 1. /abilitys npc (`Use this command to spawn the NPC from AbilityItems`)
-2. /abilitys giveall {`Use this command to get all AbilityItems.`)
-3. /partneritems {`Use this command to open a menu so you can see all available AbilityItems.`)
+2. /abilitys giveall (`Use this command to get all AbilityItems.`)
+3. /partneritems (`Use this command to open a menu so you can see all available AbilityItems.`)
 
 # Features
 - Main Features
