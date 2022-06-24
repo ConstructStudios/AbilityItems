@@ -16,7 +16,7 @@ Welcome to the AbilityItems Plugin Page. This plugin is about ability items with
 
 </a>
     <br><br>
-    ✔️ Simple setup
+     ✔️ Simple setup
     <br>
     ✔️ Fast, without lags
     <br>
