@@ -8,7 +8,7 @@ If you wish to request features, or notify me about an issue, please, make an is
 
 <p align="center">
   <b>Description:</b><br>
-Welcome to the AbilityItems Plugin Page. This plugin is about ability items with specified ability  to use for killing. This plugin is very suitable for Faction, PvP, KitPvP servers because they special ability conveniently.
+Welcome to the AbilityItems Plugin Page. This plugin is about ability items with specified ability  to use for killing. This plugin is very suitable for Faction, Minigame, KitPvP and much more servers because they special ability conveniently.
 
 - <h3>Preview</h3>
 ![AB](https://user-images.githubusercontent.com/62724481/175437067-c0fd2a0f-86fe-493d-9887-242971dc6756.png)
