@@ -1,0 +1,16 @@
+name: AbilityItems
+version: 1.0.0
+api: 4.0.0
+author: ConstructStudios
+main: ConstructStudios\AbilityItems\Main
+
+permissions:
+  ability.command:
+    description: by ConstructStudios  
+    default: op
+  removenpc.ability:
+    description: Use for remove entity
+    default: op
+  pp.command:
+    description: pp
+    default: op
