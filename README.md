@@ -15,14 +15,14 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
 ![AB2](https://user-images.githubusercontent.com/62724481/175437073-db3e4ecf-de45-439d-ab01-7cbe4925329f.png)
 
 - <h3>How To Setup:</h3>
- 1. Download latest release or sucess. build
+ 1. Download latest release or success uild
  2. Upload it to your server folder /plugins/
  3. Restart the server
 
 -  <h3>Commands:</h3>
-1. /gbucket give (`<player> <lava/water> <material> <useable-amount> <amount>`)
-2. /gbucket giveBucket (`<player> <item> <amount>`)
-3. /gbucket reload (`Reload all configurations`)
+1. /abilitys npc `Use this command to spawn the NPC from AbilityItems`)
+2. /abilitys giveall`Use this command to get all AbilityItems.)
+3. /partneritems `Use this command to open a menu so you can see all available AbilityItems.`)
 
 # Features
 - Main Features
