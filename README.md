@@ -14,6 +14,19 @@ Welcome to the AbilityItems Plugin Page. This plugin is about ability items with
 ![AB](https://user-images.githubusercontent.com/62724481/175437067-c0fd2a0f-86fe-493d-9887-242971dc6756.png)
 ![AB2](https://user-images.githubusercontent.com/62724481/175437073-db3e4ecf-de45-439d-ab01-7cbe4925329f.png)
 
+</a>
+    <br><br>
+    ✔️ Simple setup
+    <br>
+    ✔️ Fast, without lags
+    <br>
+    ✔️ Last PocketMine API support
+    <br>
+    And More
+    <br>
+    
+</div>
+
 ---
 
 - <h3>How To Setup:</h3>
