@@ -45,31 +45,31 @@ Welcome to the AbilityItems Plugin Page. This plugin is about ability items with
 
 # Features
 - Main Features
-  - [ ] BoneAbility
-  - [ ] CloseCallAbility
-  - [ ] CobwebEggAbility
-  - [ ] EffectDisablerAbility
-  - [ ] FairFightAbility
-  - [ ] FocusModeAbility
-  - [ ] FreezerAbility
-  - [ ] InventoryCloggerAbility
-  - [ ] JumpBoostAbility
-  - [ ] NinjaStarAbility
-  - [ ] PocketBardAbility
-  - [ ] PotionRefillAbility
-  - [ ] PrePearAbility
-  - [ ] PumpkinAbility
-  - [ ] RageBrickAbility
-  - [ ] RegenerationAbility
-  - [ ] ResistanceAbility
-  - [ ] RocketAbility
-  - [ ] RottenEggAbility
-  - [ ] SamuraiAbility
-  - [ ] SoupBowlAbility
-  - [ ] SpeedAbility
-  - [ ] StarvingFleshAbility
-  - [ ] StormBreakerAbility
-  - [ ] StrengthAbility
-  - [ ] SwitcherAbility
-  - [ ] ThorAbility
+  - [X] BoneAbility
+  - [X] CloseCallAbility
+  - [X] CobwebEggAbility
+  - [X] EffectDisablerAbility
+  - [X] FairFightAbility
+  - [X] FocusModeAbility
+  - [X] FreezerAbility
+  - [X] InventoryCloggerAbility
+  - [X] JumpBoostAbility
+  - [X] NinjaStarAbility
+  - [X] PocketBardAbility
+  - [X] PotionRefillAbility
+  - [X] PrePearAbility
+  - [X] PumpkinAbility
+  - [X] RageBrickAbility
+  - [X] RegenerationAbility
+  - [X] ResistanceAbility
+  - [X] RocketAbility
+  - [X] RottenEggAbility
+  - [X] SamuraiAbility
+  - [X] SoupBowlAbility
+  - [X] SpeedAbility
+  - [X] StarvingFleshAbility
+  - [X] StormBreakerAbility
+  - [X] StrengthAbility
+  - [X] SwitcherAbility
+  - [X] ThorAbility
   - More to come...
